@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnapurnaMS
-- 👀 I’m interested in learning merchine learning and data analysis using python
+- 👀 I’m interested in learning machine learning and data analysis using python
 - 🌱 I’m currently learning basics of python and machine learning
 - 💞️ I’m looking to collaborate on machine learning and algorithms
 - 📫 How to reach me 
